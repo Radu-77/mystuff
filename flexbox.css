@@ -1,0 +1,13 @@
+.container div{
+    text-align: center;
+    line-height: 100px;
+    margin: 5px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction:row ;
+    justify-content: flex-start;
+    justify-content: center;
+}
